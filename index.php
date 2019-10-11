@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>TUGAS 1 101162xx-13</title>
+    <title>TUGAS 1 101162xx-19</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/custom-bs.css">
@@ -59,8 +59,8 @@
 			<center>
         <table>
           <tr>
-        <td><h4 class="text-white"> Muhammad Naufal Fadhlur Rahman | </h4></td>
-        <td><h4 class="text-white"> 10116227 | </h4></td>
+        <td><h4 class="text-white"> Rangga  Saputra| </h4></td>
+        <td><h4 class="text-white"> 10116292 | </h4></td>
         <td><a href="http://tugas1-master.herokuapp.com/">  kembali ke master| </h4></td>
       </tr>
               </div>
