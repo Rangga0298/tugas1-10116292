@@ -59,8 +59,8 @@
 			<center>
         <table>
           <tr>
-        <td><h4 class="text-white"> Rangga  Saputra | </h4></td>
-        <td><h4 class="text-white"> 10116292 | </h4></td>
+        <td><h4 class="text-white"> Rangga  Saputra  </h4></td>
+        <td><h4 class="text-white"> | 10116292 | </h4></td>
         <td><a href="http://tugas1-master.herokuapp.com/">  kembali ke master| </h4></td>
       </tr>
               </div>
